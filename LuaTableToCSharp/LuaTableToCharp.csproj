@@ -1,0 +1,21 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <Description>适用于luatable转C#的Dictionary</Description>
+    <PackageProjectUrl>http://www.cnblogs.com/boxrice/p/8512790.html</PackageProjectUrl>
+    <RepositoryUrl>http://www.cnblogs.com/boxrice/p/8512790.html</RepositoryUrl>
+    <Authors>QingCheng</Authors>
+    <Company />
+    <Product />
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <NeutralLanguage>zh-CN</NeutralLanguage>
+    <Version>1.0.1</Version>
+    <AssemblyVersion>1.0.0.1</AssemblyVersion>
+    <FileVersion>1.0.0.1</FileVersion>
+    <PackageRequireLicenseAcceptance>false</PackageRequireLicenseAcceptance>
+    <PackageId>LuaTableToCSharp</PackageId>
+    <PackageLicenseUrl>https://github.com/QingChengCode/LuaTableToCSharp</PackageLicenseUrl>
+  </PropertyGroup>
+
+</Project>

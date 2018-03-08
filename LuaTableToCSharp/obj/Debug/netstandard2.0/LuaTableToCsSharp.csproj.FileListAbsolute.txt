@@ -1,0 +1,9 @@
+C:\Users\Administrator\source\repos\ConsoleApp5\LuaTableToCsSharp\bin\Debug\netstandard2.0\LuaTableToCsSharp.deps.json
+C:\Users\Administrator\source\repos\ConsoleApp5\LuaTableToCsSharp\bin\Debug\netstandard2.0\LuaTableToCsSharp.dll
+C:\Users\Administrator\source\repos\ConsoleApp5\LuaTableToCsSharp\bin\Debug\netstandard2.0\LuaTableToCsSharp.pdb
+C:\Users\Administrator\source\repos\ConsoleApp5\LuaTableToCsSharp\obj\Debug\netstandard2.0\LuaTableToCsSharp.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\source\repos\ConsoleApp5\LuaTableToCsSharp\obj\Debug\netstandard2.0\LuaTableToCsSharp.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\ConsoleApp5\LuaTableToCsSharp\obj\Debug\netstandard2.0\LuaTableToCsSharp.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\ConsoleApp5\LuaTableToCsSharp\obj\Debug\netstandard2.0\LuaTableToCsSharp.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\ConsoleApp5\LuaTableToCsSharp\obj\Debug\netstandard2.0\LuaTableToCsSharp.dll
+C:\Users\Administrator\source\repos\ConsoleApp5\LuaTableToCsSharp\obj\Debug\netstandard2.0\LuaTableToCsSharp.pdb

@@ -1,0 +1,20 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Program.cs~RF1ddc542e.TMP" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="HangFire" Version="1.6.17" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\LuaTableToCSharp\LuaTableToCharp.csproj" />
+  </ItemGroup>
+
+</Project>

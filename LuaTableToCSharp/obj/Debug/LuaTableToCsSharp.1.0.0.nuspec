@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>LuaTableToCsSharp</id>
+    <version>1.0.0</version>
+    <authors>QingCheng</authors>
+    <owners>QingCheng</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <projectUrl>http://www.cnblogs.com/boxrice/p/8512790.html</projectUrl>
+    <description>适用于luatable转C#的Dictionary</description>
+    <repository url="http://www.cnblogs.com/boxrice/p/8512790.html" />
+    <dependencies>
+      <group targetFramework=".NETStandard2.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\Administrator\source\repos\ConsoleApp5\LuaTableToCsSharp\bin\Debug\netstandard2.0\LuaTableToCsSharp.dll" target="lib\netstandard2.0\LuaTableToCsSharp.dll" />
+  </files>
+</package>

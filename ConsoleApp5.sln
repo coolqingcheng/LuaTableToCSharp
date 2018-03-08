@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2024
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleApp5", "ConsoleApp5\ConsoleApp5.csproj", "{A5491269-7CD5-4499-9108-3A4417E44370}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LuaTableToCharp", "LuaTableToCSharp\LuaTableToCharp.csproj", "{D3B98BE4-69F1-4527-99DD-11E0E6E99BF8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A5491269-7CD5-4499-9108-3A4417E44370}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5491269-7CD5-4499-9108-3A4417E44370}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5491269-7CD5-4499-9108-3A4417E44370}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5491269-7CD5-4499-9108-3A4417E44370}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D3B98BE4-69F1-4527-99DD-11E0E6E99BF8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3B98BE4-69F1-4527-99DD-11E0E6E99BF8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3B98BE4-69F1-4527-99DD-11E0E6E99BF8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3B98BE4-69F1-4527-99DD-11E0E6E99BF8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7CD594F5-C8BA-43AC-9C8C-C3ADEC14E842}
+	EndGlobalSection
+EndGlobal
